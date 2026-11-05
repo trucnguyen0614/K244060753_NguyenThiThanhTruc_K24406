@@ -1,0 +1,6 @@
+[
+  {"id":"KH01","name":"Phạm Minh Khoa","phone":"0987654321","email":"khoa@gmail.com","address":"12 Nguyễn Huệ, Q1, TP.HCM","username":"khoa","password":"khoa123","role":"customer"},
+  {"id":"KH02","name":"Võ Thị Lan","phone":"0976543210","email":"lan@gmail.com","address":"45 Lê Lợi, Q3, TP.HCM","username":"lan","password":"lan123","role":"customer"},
+  {"id":"KH03","name":"Đặng Quốc Huy","phone":"0865432109","email":"huy@gmail.com","address":"88 Võ Văn Ngân, Thủ Đức","username":"huy","password":"huy123","role":"customer"},
+  {"id":"KH04","name":"Ngô Thu Hà","phone":"0354321098","email":"ha@gmail.com","address":"21 Cách Mạng Tháng 8, Q10","username":"ha","password":"ha123","role":"customer"}
+]

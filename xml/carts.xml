@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carts>
+  <cart><cart_id>HD001</cart_id><date>2026-10-20</date><employee_id>NV01</employee_id><customer_id>KH01</customer_id>
+    <items>
+      <item><product_id>1</product_id><product_name>Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops</product_name><color>Đen</color><size>M</size><quantity>1</quantity><price>109.95</price></item>
+      <item><product_id>2</product_id><product_name>Mens Casual Premium Slim Fit T-Shirts</product_name><color>Trắng</color><size>L</size><quantity>2</quantity><price>22.3</price></item>
+    </items></cart>
+  <cart><cart_id>HD002</cart_id><date>2026-10-25</date><employee_id>NV02</employee_id><customer_id>KH02</customer_id>
+    <items>
+      <item><product_id>5</product_id><product_name>John Hardy Women's Legends Naga Gold &amp; Silver Bracelet</product_name><color>Trắng</color><size>S</size><quantity>1</quantity><price>695</price></item>
+      <item><product_id>7</product_id><product_name>White Gold Plated Princess</product_name><color>Trắng</color><size>M</size><quantity>3</quantity><price>9.99</price></item>
+    </items></cart>
+  <cart><cart_id>HD003</cart_id><date>2026-11-02</date><employee_id>NV03</employee_id><customer_id>KH03</customer_id>
+    <items>
+      <item><product_id>3</product_id><product_name>Mens Cotton Jacket</product_name><color>Xanh</color><size>L</size><quantity>1</quantity><price>55.99</price></item>
+      <item><product_id>4</product_id><product_name>Mens Casual Slim Fit</product_name><color>Trắng</color><size>M</size><quantity>2</quantity><price>15.99</price></item>
+      <item><product_id>8</product_id><product_name>Pierced Owl Rose Gold Plated Stainless Steel Double</product_name><color>Đỏ</color><size>S</size><quantity>1</quantity><price>10.99</price></item>
+    </items></cart>
+</carts>

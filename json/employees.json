@@ -1,0 +1,5 @@
+[
+  {"id":"NV01","name":"Nguyễn Văn An","phone":"0901234567","email":"an.admin@shop.vn","address":"Q1, TP.HCM","username":"admin","password":"admin123","role":"admin"},
+  {"id":"NV02","name":"Trần Thị Bình","phone":"0912345678","email":"binh.nv@shop.vn","address":"Q3, TP.HCM","username":"nv02","password":"123456","role":"staff"},
+  {"id":"NV03","name":"Lê Hoàng Cường","phone":"0933456789","email":"cuong.nv@shop.vn","address":"Thủ Đức, TP.HCM","username":"nv03","password":"123456","role":"staff"}
+]

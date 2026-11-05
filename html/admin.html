@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Admin - MiniShop</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <h1 class="logo">🛠️ MiniShop Admin</h1>
+    <nav>
+      <a href="../index.html">← Về cửa hàng</a>
+      <span id="whoami"></span>
+      <button id="btnLogout" class="btn-small" type="button" hidden>Đăng xuất</button>
+    </nav>
+  </header>
+
+  <main class="admin-wrap">
+    <section id="loginBox" class="login-box">
+      <h2>Đăng nhập Admin</h2>
+      <div class="hint">Tài khoản mẫu: <b>admin</b> / <b>admin123</b><br>hoặc nv02 / 123456, nv03 / 123456</div>
+      <form id="loginForm">
+        <div class="field"><label for="username">Tên đăng nhập</label><input type="text" id="username" value="admin" required></div>
+        <div class="field"><label for="password">Mật khẩu</label><input type="password" id="password" value="admin123" required></div>
+        <p id="loginMsg" class="msg error"></p>
+        <button type="submit" class="btn-primary">Đăng nhập</button>
+      </form>
+    </section>
+
+    <section id="dashboard" hidden>
+      <div class="tabs" id="tabs">
+        <button class="tab-btn active" data-tab="stats">Thống kê đơn hàng</button>
+        <button class="tab-btn" data-tab="orders">Quản lý đơn hàng</button>
+        <button class="tab-btn" data-tab="items">Sản phẩm được bán</button>
+      </div>
+      <article class="tab-pane" id="tab-stats"></article>
+      <article class="tab-pane" id="tab-orders" hidden></article>
+      <article class="tab-pane" id="tab-items" hidden></article>
+    </section>
+  </main>
+
+  <div class="modal" id="detailModal" hidden>
+    <div class="modal-box"><button class="modal-close" data-close="1">&times;</button><div id="detailBody"></div></div>
+  </div>
+
+  <footer class="site-footer">
+    <p>Họ và Tên: Nguyễn Thị Thanh Trúc</p>
+    <p>Mã Số Sinh Viên: K244060753</p>
+    <p>Lớp: K24406</p>
+  </footer>
+
+  <script src="../js/admin.js"></script>
+</body>
+</html>

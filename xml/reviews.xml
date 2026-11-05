@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<reviews>
+  <review><review_id>R001</review_id><product_id>1</product_id><customer_id>KH01</customer_id><customer_name>Phạm Minh Khoa</customer_name><rating>4</rating><comment>Ba lô chắc chắn, đựng vừa laptop.</comment><date>2026-10-21</date></review>
+  <review><review_id>R002</review_id><product_id>1</product_id><customer_id>KH02</customer_id><customer_name>Võ Thị Lan</customer_name><rating>5</rating><comment>Rất đẹp, giao hàng nhanh.</comment><date>2026-10-22</date></review>
+  <review><review_id>R003</review_id><product_id>2</product_id><customer_id>KH01</customer_id><customer_name>Phạm Minh Khoa</customer_name><rating>4</rating><comment>Vải mát, form chuẩn.</comment><date>2026-10-21</date></review>
+  <review><review_id>R004</review_id><product_id>2</product_id><customer_id>KH03</customer_id><customer_name>Đặng Quốc Huy</customer_name><rating>3</rating><comment>Hơi mỏng so với mong đợi.</comment><date>2026-10-24</date></review>
+  <review><review_id>R005</review_id><product_id>3</product_id><customer_id>KH03</customer_id><customer_name>Đặng Quốc Huy</customer_name><rating>5</rating><comment>Áo khoác ấm, đường may đẹp.</comment><date>2026-11-03</date></review>
+  <review><review_id>R006</review_id><product_id>3</product_id><customer_id>KH04</customer_id><customer_name>Ngô Thu Hà</customer_name><rating>5</rating><comment>Mua tặng bạn trai, rất ưng.</comment><date>2026-11-03</date></review>
+  <review><review_id>R007</review_id><product_id>4</product_id><customer_id>KH03</customer_id><customer_name>Đặng Quốc Huy</customer_name><rating>2</rating><comment>Màu hơi khác ảnh.</comment><date>2026-11-03</date></review>
+  <review><review_id>R008</review_id><product_id>5</product_id><customer_id>KH02</customer_id><customer_name>Võ Thị Lan</customer_name><rating>5</rating><comment>Vòng tay tinh xảo, đáng tiền.</comment><date>2026-10-26</date></review>
+  <review><review_id>R009</review_id><product_id>5</product_id><customer_id>KH04</customer_id><customer_name>Ngô Thu Hà</customer_name><rating>4</rating><comment>Đẹp nhưng giá cao.</comment><date>2026-10-28</date></review>
+  <review><review_id>R010</review_id><product_id>6</product_id><customer_id>KH04</customer_id><customer_name>Ngô Thu Hà</customer_name><rating>4</rating><comment>Nhỏ nhắn xinh xắn.</comment><date>2026-10-29</date></review>
+  <review><review_id>R011</review_id><product_id>7</product_id><customer_id>KH02</customer_id><customer_name>Võ Thị Lan</customer_name><rating>3</rating><comment>Tạm ổn với mức giá.</comment><date>2026-10-27</date></review>
+  <review><review_id>R012</review_id><product_id>8</product_id><customer_id>KH03</customer_id><customer_name>Đặng Quốc Huy</customer_name><rating>2</rating><comment>Khuyên hơi nhỏ.</comment><date>2026-11-04</date></review>
+  <review><review_id>R013</review_id><product_id>8</product_id><customer_id>KH01</customer_id><customer_name>Phạm Minh Khoa</customer_name><rating>3</rating><comment>Dễ thương, dùng được.</comment><date>2026-11-04</date></review>
+</reviews>
